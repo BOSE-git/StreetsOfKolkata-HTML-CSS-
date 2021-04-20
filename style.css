@@ -1,0 +1,165 @@
+html
+{
+scroll-behavior: smooth;
+}
+header
+{
+	color: white;
+}
+.BACKGROUND1
+{
+	background-image: url("Background/cycle.jpg");
+	 padding-bottom: 900px;
+
+}
+#Header
+{
+	color: white
+}
+body
+{
+	background-color: black
+	
+}
+h1
+{
+	color: white;
+	font-family: "Caveat Brush";
+}
+h2
+{
+	color: white;
+}
+h3
+{
+	color: white;
+	text-align: center;
+	font-family: "Caveat Brush";
+	font-size: 75px;
+	text-align: center;
+}
+h4
+{
+	color: white;
+	font-family: "Caveat Brush";
+
+}
+h5
+{
+	color: white;
+	font-family: "Charmonman";
+	font-size : 50px;
+}
+#Gallery
+{
+	margin-right: 	100px;
+	margin-left: 	100px;
+	text-align: center;
+
+}
+#image
+{
+	padding:50px;
+}
+p
+{
+	color: white;
+	font-family: "Charmonman"
+}
+#reviews
+{
+	margin-left: 200px;
+	margin-right: 200px;
+}
+#about
+{
+	margin-left: 200px;
+	margin-right: 200px;
+}
+ul
+{
+	list-style: none;
+}
+li
+{
+	font-family: "Caveat Brush";
+	display: inline;
+	margin: 20px;
+	padding: 50px;
+
+}
+li a
+{
+	color: white;
+	text-decoration: none;
+}
+li a:hover
+{
+	color: #FF7A00;
+	text-decoration: none;
+}
+form
+{
+	color: white;
+	font-family: "Charmonman";
+}
+#contact
+{
+	margin-left: 150px;
+	margin-right: 150px;
+}
+
+input[type=email]
+{
+	color:white;
+	background-color: black;
+	width: 100%;
+ 	padding: 12px 20px;
+  	margin: 8px 0;
+  	box-sizing: border-box;
+  	border-style: solid;
+  	border-color: #FF7A00;
+
+  border-radius: 15px;
+}
+input[type=text]
+{
+	color:white;
+	background-color: black;
+	width: 100%;
+ 	padding: 100px 20px;
+  	margin: 8px 0;
+  	box-sizing: border-box;
+  	border-style: solid;
+ 	border-color: #FF7A00;
+ 	border-radius: 15px;
+}
+
+input[type=button], input[type=submit], input[type=reset] 
+{
+  background-color: black;
+  box-sizing: border-box;
+  border-style: solid;
+  border-color: #FF7A00;
+  border-radius: 15px;
+  color: white;
+  padding: 8px 16px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+#subbutton
+{
+	text-align: center;
+}
+h6
+{
+	font-family: "Caveat Brush";
+	color:white;
+	font-size:30px;
+}
+footer
+{
+	margin-left: 150px;
+	margin-right: 150px;
+}
